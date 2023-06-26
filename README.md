@@ -1,8 +1,4 @@
 # awesome_project
 MHW Summer School Webinar
 
-This is some change in the README
-
-This is another change.
-
-This is a forked change for a Pull Request
+![image](https://github.com/iuryt/awesome_project/assets/5797727/62735402-ef99-4ef1-9c66-e110d10ef93a)
